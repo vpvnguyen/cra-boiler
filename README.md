@@ -5,7 +5,7 @@
 - Clone repo
 
 ```
-git clone https://github.com/vpvnguyen/nx-next-boilerplate.git
+git clone https://github.com/vpvnguyen/cra-boiler.git
 ```
 
 - Install modules
